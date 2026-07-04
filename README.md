@@ -1,11 +1,11 @@
 # Victoria Kirichenko
 
 <samp>R&D TEAM LEADER · TEL AVIV · 11+ YEARS, FULL-STACK → LEAD → R&D</samp><br>
-<samp>I build systems that scale — and teams that want to.</samp>
+<samp>I build systems that scale - and teams that want to.</samp>
 
 ---
 
-I take the unclear, load-bearing problems and turn them into systems that are clear, stable, and useful — and into teams that can keep them that way. Eleven years from engineer to R&D leader taught me the part that never shows up in a diff: strong code needs strong culture. I build both.
+I take the unclear, load-bearing problems and turn them into systems that are clear, stable, and useful - and into teams that can keep them that way. Eleven years from engineer to R&D leader taught me the part that never shows up in a diff: strong code needs strong culture. I build both.
 
 ```bash
 #!/usr/bin/env bash
@@ -35,6 +35,6 @@ exit 0                                    # not despite the struggle. because of
 
 ---
 
-<samp>CURRENTLY — leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
+<samp>CURRENTLY - leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
 
 <sub><samp>[LINKEDIN](https://linkedin.com/in/victoria-kirichenko) · [VICTORIAKIRICHENKO.COM](https://victoriakirichenko.com) · [EMAIL](mailto:talk@victoriakirichenko.com)</samp></sub>
