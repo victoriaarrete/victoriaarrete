@@ -35,6 +35,6 @@ exit 0                                    # not despite the struggle. because of
 
 ---
 
-<samp>CURRENTLY 0 leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
+<samp>CURRENTLY - leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
 
 <sub><samp>[LINKEDIN](https://linkedin.com/in/victoria-kirichenko) · [VICTORIAKIRICHENKO.COM](https://victoriakirichenko.com) · [EMAIL](mailto:talk@victoriakirichenko.com)</samp></sub>
