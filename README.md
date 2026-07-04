@@ -1,14 +1,40 @@
-# 💫 About Me:
-Find unclear and complex problems and turn them into systems that are clear, stable, and useful.  <br>Help teams and products make better decisions.<br><br>Focus on using the right tool, keeping systems simple, and building ways of working that actually help teams deliver.<br>
+# Victoria Kirichenko
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-kirichenko) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<samp>R&D TEAM LEADER · TEL AVIV · 11+ YEARS, FULL-STACK → LEAD → R&D</samp><br>
+<samp>I build systems that scale — and teams that want to.</samp>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=victoriaarrete&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I take the unclear, load-bearing problems and turn them into systems that are clear, stable, and useful — and into teams that can keep them that way. Eleven years from engineer to R&D leader taught me the part that never shows up in a diff: strong code needs strong culture. I build both.
+
+```bash
+#!/usr/bin/env bash
+# approach.sh — the method, as commands
+
+find . -type problem -name "unclear*"     # start where it hurts
+refactor --optimize=clarity --strip=cleverness
+rm -v ./process/noise/*                   # leading ≠ adding process
+chown -R team ./systems                   # ownership over heroics
+diff system culture                       # no output — one problem
+exit 0                                    # not despite the struggle. because of it.
+```
+
+### <samp>STACK</samp>
+
+<sub><samp>SYSTEMS</samp></sub><br>
+<img src="https://img.shields.io/badge/-TYPESCRIPT-1a1613?style=flat-square&labelColor=17130d&logo=typescript&logoColor=d8c9a8" alt="TypeScript"> <img src="https://img.shields.io/badge/-NODE.JS-1a1613?style=flat-square&labelColor=17130d&logo=nodedotjs&logoColor=d8c9a8" alt="Node.js"> <img src="https://img.shields.io/badge/-PYTHON-1a1613?style=flat-square&labelColor=17130d&logo=python&logoColor=d8c9a8" alt="Python"> <img src="https://img.shields.io/badge/-POSTGRESQL-1a1613?style=flat-square&labelColor=17130d&logo=postgresql&logoColor=d8c9a8" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-ELASTICSEARCH-1a1613?style=flat-square&labelColor=17130d&logo=elasticsearch&logoColor=d8c9a8" alt="Elasticsearch"> <img src="https://img.shields.io/badge/-REDIS-1a1613?style=flat-square&labelColor=17130d&logo=redis&logoColor=d8c9a8" alt="Redis">
+
+<sub><samp>FRONTEND</samp></sub><br>
+<img src="https://img.shields.io/badge/-REACT-1a1613?style=flat-square&labelColor=17130d&logo=react&logoColor=d8c9a8" alt="React"> <img src="https://img.shields.io/badge/-NEXT.JS-1a1613?style=flat-square&labelColor=17130d&logo=nextdotjs&logoColor=d8c9a8" alt="Next.js">
+
+<sub><samp>INFRA & DATA</samp></sub><br>
+<img src="https://img.shields.io/badge/-AWS-1a1613?style=flat-square&labelColor=17130d&logo=amazonwebservices&logoColor=d8c9a8" alt="AWS"> <img src="https://img.shields.io/badge/-KUBERNETES-1a1613?style=flat-square&labelColor=17130d&logo=kubernetes&logoColor=d8c9a8" alt="Kubernetes"> <img src="https://img.shields.io/badge/-TERRAFORM-1a1613?style=flat-square&labelColor=17130d&logo=terraform&logoColor=d8c9a8" alt="Terraform"> <img src="https://img.shields.io/badge/-DATADOG-1a1613?style=flat-square&labelColor=17130d&logo=datadog&logoColor=d8c9a8" alt="Datadog">
+
+<sub><samp>WAYS OF WORKING</samp></sub><br>
+<samp>clarity over cleverness · remove noise, don't add process · the system and the people are one problem</samp>
+
+---
+
+<samp>CURRENTLY — leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
+
+<sub><samp>[LINKEDIN](https://linkedin.com/in/victoria-kirichenko) · [VICTORIAKIRICHENKO.COM](https://victoriakirichenko.com) · [EMAIL](mailto:talk@victoriakirichenko.com)</samp></sub>
