@@ -3,8 +3,6 @@
 
 ---
 
-I take the unclear, load-bearing problems and turn them into systems that are clear, stable, and useful - and into teams that can keep them that way. Eleven years from engineer to R&D leader taught me the part that never shows up in a diff: strong code needs strong culture. I build both.
-
 ```bash
 #!/usr/bin/env bash
 # approach.sh — the method, as commands
@@ -31,11 +29,6 @@ exit 0                                    # not despite the struggle. because of
 <sub><samp>CLOUD & INFRA</samp></sub><br>
 <img src="https://img.shields.io/badge/-AWS-1a1613?style=flat-square&labelColor=17130d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Q4YzlhOCIgZD0iTTE5LjM1IDEwLjA0QTcuNDkgNy40OSAwIDAgMCAxMiA0QzkuMTEgNCA2LjYgNS42NCA1LjM1IDguMDRBNS45OSA1Ljk5IDAgMCAwIDAgMTRjMCAzLjMxIDIuNjkgNiA2IDZoMTNjMi43NiAwIDUtMi4yNCA1LTUgMC0yLjY0LTIuMDUtNC43OC00LjY1LTQuOTZ6Ii8%2BPC9zdmc%2B" alt="AWS"> <img src="https://img.shields.io/badge/-LAMBDA-1a1613?style=flat-square&labelColor=17130d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgc3Ryb2tlPSIjZDhjOWE4IiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIj48cGF0aCBkPSJNNyA0aDIuNWw4LjUgMTYiLz48cGF0aCBkPSJNMTIuOCAxMS44IDcgMjAiLz48L2c%2BPC9zdmc%2B" alt="AWS Lambda"> <img src="https://img.shields.io/badge/-GOOGLE_CLOUD-1a1613?style=flat-square&labelColor=17130d&logo=googlecloud&logoColor=d8c9a8" alt="Google Cloud"> <img src="https://img.shields.io/badge/-KUBERNETES-1a1613?style=flat-square&labelColor=17130d&logo=kubernetes&logoColor=d8c9a8" alt="Kubernetes"> <img src="https://img.shields.io/badge/-TERRAFORM-1a1613?style=flat-square&labelColor=17130d&logo=terraform&logoColor=d8c9a8" alt="Terraform"> <img src="https://img.shields.io/badge/-DATADOG-1a1613?style=flat-square&labelColor=17130d&logo=datadog&logoColor=d8c9a8" alt="Datadog">
 
-<sub><samp>WAYS OF WORKING</samp></sub><br>
-<samp>clarity over cleverness · remove noise, don't add process · the system and the people are one problem</samp>
 
----
-
-<samp>CURRENTLY - leading R&D: fewer moving parts, more owners, systems a new hire can read.</samp>
 
 <sub><samp>[LINKEDIN](https://linkedin.com/in/victoria-kirichenko) · [VICTORIAKIRICHENKO.COM](https://victoriakirichenko.com) · [EMAIL](mailto:talk@victoriakirichenko.com)</samp></sub>
