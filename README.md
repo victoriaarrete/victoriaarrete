@@ -1,5 +1,3 @@
-# Victoria Kirichenko
-
 <samp>R&D TEAM LEADER · TEL AVIV · 11+ YEARS, FULL-STACK → LEAD → R&D</samp><br>
 <samp>I build systems that scale - and teams that want to.</samp>
 
